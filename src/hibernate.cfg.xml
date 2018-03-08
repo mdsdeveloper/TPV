@@ -62,7 +62,7 @@
   	 
   	 <!-- Configuramos la cache de hibernate -->
         <property name="hibernate.cache.provider_class">org.hibernate.cache.HashtableCacheProvider</property>
-
+llll
   
    		<mapping class="modelo.Categoria"/>
    		<mapping class="modelo.Producto"/>
